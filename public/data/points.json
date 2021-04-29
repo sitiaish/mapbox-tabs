@@ -1,0 +1,607 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           62.339637,
+           25.110612
+         ]
+       },
+       "properties": {
+         "Name": "Gwadar Port",
+         "Country": "Pakistan"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           81.104783,
+           6.122056
+         ]
+       },
+       "properties": {
+         "Name": "Hambantota Port",
+         "Country": "Sri Lanka"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           8.443584,
+           44.268402
+         ]
+       },
+       "properties": {
+         "Name": "Vado Port",
+         "Country": "Italy"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           23.631368,
+           37.941419
+         ]
+       },
+       "properties": {
+         "Name": "Piraeus Port",
+         "Country": "Greece"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           54.649476,
+           24.81004
+         ]
+       },
+       "properties": {
+         "Name": "Khalifa Port",
+         "Country": "United Arab Emirates"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           28.678843,
+           40.967364
+         ]
+       },
+       "properties": {
+         "Name": "Kumport Port",
+         "Country": "Turkey"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           130.886866,
+           -12.490938
+         ]
+       },
+       "properties": {
+         "Name": "Darwin Port",
+         "Country": "Australia"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           151.781192,
+           -32.925411
+         ]
+       },
+       "properties": {
+         "Name": "Newcastle Port",
+         "Country": "Australia"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           129.72417,
+           41.766674
+         ]
+       },
+       "properties": {
+         "Name": "Chongjin Port",
+         "Country": "North Korea"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           119.454353,
+           25.982719
+         ]
+       },
+       "properties": {
+         "Name": "Fuzhou Port",
+         "Country": "China"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           118.667948,
+           24.815201
+         ]
+       },
+       "properties": {
+         "Name": "Quanzhou Port",
+         "Country": "China"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           113.573584,
+           22.752791
+         ]
+       },
+       "properties": {
+         "Name": "Guangzhou Port",
+         "Country": "China"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           110.457953,
+           21.120354
+         ]
+       },
+       "properties": {
+         "Name": "Zhanjiang Port",
+         "Country": "China"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           110.281113,
+           20.02614
+         ]
+       },
+       "properties": {
+         "Name": "Haikou Port",
+         "Country": "China"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           109.068136,
+           21.542571
+         ]
+       },
+       "properties": {
+         "Name": "Beihai Port",
+         "Country": "China"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           103.498806,
+           10.644702
+         ]
+       },
+       "properties": {
+         "Name": "Sihanoukville Port",
+         "Country": "Cambodia"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           91.800428,
+           22.3102
+         ]
+       },
+       "properties": {
+         "Name": "Chittagong Port",
+         "Country": "Bangladesh"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           4.009106,
+           6.430225
+         ]
+       },
+       "properties": {
+         "Name": "Lekki Port",
+         "Country": "Nigeria"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           1.277938,
+           6.137855
+         ]
+       },
+       "properties": {
+         "Name": "Lomé Port",
+         "Country": "Togo"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -4.012785,
+           5.273356
+         ]
+       },
+       "properties": {
+         "Name": "Abidjan Port",
+         "Country": "Ivory Coast"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -16.027963,
+           17.986427
+         ]
+       },
+       "properties": {
+         "Name": "Nouakchott Port",
+         "Country": "Mauritania"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           32.337804,
+           31.1948
+         ]
+       },
+       "properties": {
+         "Name": "Suez Canal Container Terminal",
+         "Country": "Egypt"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           4.145846,
+           51.952015
+         ]
+       },
+       "properties": {
+         "Name": "Rotterdam Port",
+         "Country": "Netherlands"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           4.407262,
+           51.24109
+         ]
+       },
+       "properties": {
+         "Name": "Antwerp Port",
+         "Country": "Belgium"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -0.316953,
+           39.44812
+         ]
+       },
+       "properties": {
+         "Name": "Valencia Port",
+         "Country": "Spain"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -3.042663,
+           43.342301
+         ]
+       },
+       "properties": {
+         "Name": "Bilbao Port",
+         "Country": "Spain"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -7.596685,
+           33.603758
+         ]
+       },
+       "properties": {
+         "Name": "Casablanca Port",
+         "Country": "Morocco"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -5.519776,
+           35.871694
+         ]
+       },
+       "properties": {
+         "Name": "Tanger Med Port",
+         "Country": "Morocco"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           2.373221,
+           51.041954
+         ]
+       },
+       "properties": {
+         "Name": "Dunkirk Port",
+         "Country": "France"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           0.146792,
+           49.472249
+         ]
+       },
+       "properties": {
+         "Name": "Le Havre Port",
+         "Country": "France"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           5.36508,
+           43.305132
+         ]
+       },
+       "properties": {
+         "Name": "Marseille Fos Port",
+         "Country": "France"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           14.537781,
+           35.815809
+         ]
+       },
+       "properties": {
+         "Name": "Malta Port",
+         "Country": "Malta"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           103.761972,
+           1.279051
+         ]
+       },
+       "properties": {
+         "Name": "Singapore Port",
+         "Country": "Singapore"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           130.282848,
+           42.228923
+         ]
+       },
+       "properties": {
+         "Name": "Rajin Port",
+         "Country": "North Korea"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           66.983124,
+           24.835917
+         ]
+       },
+       "properties": {
+         "Name": "Karachi Port",
+         "Country": "Pakistan"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           13.246212,
+           -8.800272
+         ]
+       },
+       "properties": {
+         "Name": "Luanda Port",
+         "Country": "Angola"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           100.894244,
+           13.064041
+         ]
+       },
+       "properties": {
+         "Name": "Laem Chabang Port",
+         "Country": "Thailand"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           144.913224,
+           -37.845926
+         ]
+       },
+       "properties": {
+         "Name": "Melbourne Port",
+         "Country": "Australia"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -4.022909,
+           5.304095
+         ]
+       },
+       "properties": {
+         "Name": "Abijan Port",
+         "Country": "Côte d'Ivoire"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -1.657681,
+           4.968527
+         ]
+       },
+       "properties": {
+         "Name": "Aboadze Port",
+         "Country": "Ghana"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           28.676663,
+           40.96722
+         ]
+       },
+       "properties": {
+         "Name": "Ambarli Port",
+         "Country": "Turkey"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -2.157712,
+           47.295758
+         ]
+       },
+       "properties": {
+         "Name": "Montoir-de-Bretagne Port",
+         "Country": "France"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           129.059567,
+           35.125513
+         ]
+       },
+       "properties": {
+         "Name": "Busan Port",
+         "Country": "South Korea"
+       }
+     }
+   ]
+ }
