@@ -3,7 +3,6 @@ import MapboxGL from 'mapbox-gl';
 // set mapbox token
 // MapboxGL.accessToken = process.env.VUE_APP_MAPBOX_TOKEN;
 // MapboxGL.accessToken = "";
-MapboxGL.accessToken = "pk.eyJ1Ijoic2l0aWFpc2giLCJhIjoiY2pxdjF5bmFiMHFxNTQycGVmaDJvcHhmbCJ9.CbZ6rjERj7quZGePsgDdRw";
 
 const createMap = config => {
   // init Mapbox
